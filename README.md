@@ -3,8 +3,12 @@
 <hr/>
 <div>
     <h3>App Demo</h3>
-    <p>Enter your necessary tasks it will show up below</p>
+    <li>Enter your necessary tasks it will show up below</li>
     <img src="./demo-img/todo-demo-1.png"  style="width:300px;height:220px;"/>
+    <hr/>
+    <h5>Completing Task</h5> 
+    <li>If your is complete, hover over your task. The cursor will change to a pointer. By clicking on it the task will be crossed out</li>
+    <img src="./demo-img/todo-demo-2.png"  style="width:300px;height:220px;"/>
 
 </div>
 
