@@ -3,7 +3,7 @@
 <div>
     <h3>Introduction</h3>
     <p>Todo Task App is a web application created using React.js, Express.js, MongoDB & Node.js (MERN Stack). Material UI has been used to design the user interface.</p>
-    <p>If you wanted to write down a list of things to remember this app is perfect for you</p>
+    <p>If you wanted to write down a list of things to remember, this app is perfect for you</p>
     <p>Please visit the link below to use this app:</p>
     https://todo-task-app.vercel.app/
 </div>
