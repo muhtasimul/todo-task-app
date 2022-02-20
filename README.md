@@ -7,8 +7,8 @@
     <img src="./demo-img/todo-demo-1.png"  style="width:300px;height:220px;"/>
     <hr/>
     <h5>Completing Task</h5> 
-    <li>If your task is <em>complete</em>, hover over your task. The cursor will change to a pointer. By clicking on it the task will be crossed out</li>
-    <img src="./demo-img/todo-demo-2.png"  style="width:300px;height:220px;"/>
+    <li>If your task is <bold>complete</bold>, hover over your task. The cursor will change to a pointer. By clicking on it the task will be crossed out</li>
+    <img src="./demo-img/todo-demo-2.png"  style="width:270px;height:220px;"/>
 
 </div>
 
