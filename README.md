@@ -1,6 +1,6 @@
 <h1>Todo Task App</h1>
 
-<img src="./demo-img/todo-demo-1.png"  style="width:128px;height:128px;"/>
+<img src="./demo-img/todo-demo-1.png"  style="width:300px;height:300px;"/>
 
 <hr/>
 <h4>React Instructions</h4>
