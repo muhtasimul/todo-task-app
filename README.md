@@ -1,5 +1,13 @@
 <h1>Todo Task App</h1>
 
+<div>
+    <h3>Introduction</h3>
+    <p>Todo Task App is a web application created using React.js, Express.js, MongoDB & Node.js (MERN Stack). Material UI has been used to design the user interface.</p>
+    <p>If you wanted to write down a list of things to remember this app is perfect for you</p>
+    <p>Please visit the link below to use this app:</p>
+    https://todo-task-app.vercel.app/
+</div>
+
 <hr/>
 <div>
     <h3>App Demo</h3>
@@ -12,6 +20,12 @@
 
 </div>
 
+<hr/>
+
+<h3>IMPORTANT</h3>
+<li><strong>Please note that all each task entries have a max character limit of 40</strong></li>
+<li><strong>Please note that all each task entries get automatically deleted after 2 minutes</strong></li>
+<p>I have set up these limitations to save space on my database.</p>
 <hr/>
 <h4>React Instructions</h4>
 <details>
