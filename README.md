@@ -3,6 +3,7 @@
 <hr/>
 <div>
     <h3>App Demo</h3>
+    <p>Enter your necessary tasks it will show up below</p>
     <img src="./demo-img/todo-demo-1.png"  style="width:300px;height:220px;"/>
 
 </div>
