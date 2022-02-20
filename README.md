@@ -3,7 +3,7 @@
 <hr/>
 <div>
     <h3>App Demo</h3>
-    <img src="./demo-img/todo-demo-1.png"  style="width:300px;height:250px;"/>
+    <img src="./demo-img/todo-demo-1.png"  style="width:300px;height:220px;"/>
 
 </div>
 
