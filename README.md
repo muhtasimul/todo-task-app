@@ -23,8 +23,8 @@
 <hr/>
 
 <h3>IMPORTANT</h3>
-<li><strong>Please note that all each task entries have a max character limit of 40</strong></li>
-<li><strong>Please note that all each task entries get automatically deleted after 2 minutes</strong></li>
+<li><strong>Please note that each task entries have a max character limit of 40</strong></li>
+<li><strong>Please note that each task entries get automatically deleted after 2 minutes</strong></li>
 <p>I have set up these limitations to save space on my database.</p>
 <hr/>
 <h4>React Instructions</h4>
